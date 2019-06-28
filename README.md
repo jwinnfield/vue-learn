@@ -55,7 +55,7 @@ vue create .
 
 10. Créer un bouton pour afficher la modale avec la variable "message" en contenu. [...doc](https://fr.vuejs.org/v2/guide/components-slots.html)
 
-11. Importer [axios](https://www.npmjs.com/package/axios) sur tout les composants sans utiliser d'import.
+11. Importer [axios](https://www.npmjs.com/package/axios) seulement sur main.js et la donner au autre composant en utilisiant une fonctionnalité de l'api.
 
 12. Afficher toutes les data au lancement des composants en passant par les mixins. [...doc](https://fr.vuejs.org/v2/guide/mixins.html)
 
