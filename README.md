@@ -57,6 +57,8 @@ vue create .
 
 11. Importer [axios](https://www.npmjs.com/package/axios) sur tout les composants sans utiliser d'import.
 
+12. Afficher toutes les data au lancement des composants en passant par les mixins. [...doc](https://fr.vuejs.org/v2/guide/mixins.html)
+
 
 ## VueX
 *[Structure vueX](https://vuex.vuejs.org/fr/guide/structure.html)*
@@ -67,3 +69,4 @@ vue create .
 3. Créer un formulaire pour modifier la variable msg. [...doc](https://vuex.vuejs.org/fr/guide/mutations.html)
 
 
+## Vue-router
