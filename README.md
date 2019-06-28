@@ -70,3 +70,14 @@ vue create .
 
 
 ## Vue-router
+
+1. Créer 2 composants Home et Formulaire puis les inclures dans le router.
+
+2. Dans App.vue, faire console.log(this.router) et console.log(this.route), pour voir les informations auquel vous allez pouvoir accéder sur le router.
+
+3. Créer un lien pour acceder de la page Home à Formulaire. [...doc](https://router.vuejs.org/fr/guide/essentials/navigation.html)
+
+4. Créer une variable msg dans Home pour la donner à Formulaire. [...doc](https://router.vuejs.org/fr/guide/essentials/navigation.html) && [...doc](https://router.vuejs.org/fr/guide/essentials/passing-props.html#mode-booleen)
+
+4. Créer un menu avec lequel vous aller pouvoir naviguer sur Home et Formulaire. [...doc](https://router.vuejs.org/fr/guide/essentials/nested-routes.html)
+
