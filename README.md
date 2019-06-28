@@ -25,6 +25,13 @@ vue create .
 
 # Exercices
 
+## Vue Cli
+
+1. Créer un variable d'envionnement MESSAGE. Changer le contenu selon votre environnement. [...doc](https://cli.vuejs.org/guide/mode-and-env.html#environment-variables)
+
+2. Afficher la valeur dans la console.
+
+
 ## VueJs
 *[The bible](https://fr.vuejs.org/v2/style-guide/)*
 *App.vue*
@@ -58,3 +65,5 @@ vue create .
 2. Afficher "Hello" sans modifier la variable msg. [...doc](https://vuex.vuejs.org/fr/guide/getters.html)
 
 3. Créer un formulaire pour modifier la variable msg. [...doc](https://vuex.vuejs.org/fr/guide/mutations.html)
+
+
