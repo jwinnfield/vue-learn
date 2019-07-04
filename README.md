@@ -39,7 +39,7 @@ vue create .
 
 2. Afficher "Hello World !" sur la vue en utilisant la variable "message". [...doc](https://fr.vuejs.org/v2/guide/syntax.html#Texte)
 
-3. Modifier la couleur du font au lanchement du composant. [...doc](https://fr.vuejs.org/v2/guide/instance.html#Diagramme-du-cycle-de-vie)
+3. Modifier la couleur du font au lancement du composant. [...doc](https://fr.vuejs.org/v2/guide/instance.html#Diagramme-du-cycle-de-vie)
 
 4. Sans modifier la variable "message", afficher "HELLO WORLD !", [...doc](https://fr.vuejs.org/v2/guide/computed.html#Proprietes-calculees)
 
@@ -55,7 +55,7 @@ vue create .
 
 10. Créer un bouton pour afficher la modale avec la variable "message" en contenu. [...doc](https://fr.vuejs.org/v2/guide/components-slots.html)
 
-11. Importer [axios](https://www.npmjs.com/package/axios) seulement sur main.js et la donner au autre composant en utilisiant une fonctionnalité de l'api.
+11. Importer [axios](https://www.npmjs.com/package/axios) seulement sur main.js et la donner aux autres composants en utilisiant une fonctionnalité de l'api.
 
 12. Afficher toutes les data au lancement des composants en passant par les mixins. [...doc](https://fr.vuejs.org/v2/guide/mixins.html)
 
